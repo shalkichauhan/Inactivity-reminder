@@ -3,6 +3,7 @@
     "@types/node": "^20.12.12"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongodb": "^6.6.2"
   }
 }
