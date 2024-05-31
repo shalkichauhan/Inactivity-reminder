@@ -1,7 +1,10 @@
 {
   "compilerOptions": {
     "target": "es6",                  /* Specify ECMAScript target version */
-    "module": "commonjs",             /* Specify module code generation */
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    /* Specify module code generation */
     "strict": true,                   /* Enable all strict type-checking options */
     "esModuleInterop": true           /* Allows compatibility with modules that use default exports */
   },
